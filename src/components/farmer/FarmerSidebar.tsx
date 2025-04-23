@@ -25,7 +25,7 @@ export default function FarmerSidebar({ activeSidebar }: FarmerSidebarProps) {
             <div className="flex items-center justify-center w-8 h-8 rounded-full bg-harvest-primary">
               <span className="text-white font-bold text-sm">HH</span>
             </div>
-            <a href="https://harvest-harmony-connect.vercel.app/">
+            <a href="https://harvest-harmony.vercel.app/">
             <span className="font-bold text-xl text-harvest-dark">
               Harvest<span className="text-harvest-primary">Harmony</span>
             </span>
