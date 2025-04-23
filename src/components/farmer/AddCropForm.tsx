@@ -150,7 +150,7 @@ export default function AddCropForm({ onSuccess }: AddCropFormProps) {
           </div>
           
           <div className="space-y-2">
-            <Label htmlFor="price_per_unit">Price per {cropData.unit} (USD)</Label>
+            <Label htmlFor="price_per_unit">Price per {cropData.unit} (Rs.)</Label>
             <Input 
               id="price_per_unit"
               name="price_per_unit"
