@@ -3,7 +3,7 @@
 ![Harvest Harmony Banner](https://harvest-harmony-connect.vercel.app/banner.png) <!-- Optional: Replace with your own banner image -->
 
 ## 🚀 Live Demo
-🔗 [Visit the Live App](https://harvest-harmony-connect.vercel.app/)
+🔗 [Visit the Live App](https://harvest-harmony.vercel.app/)
 
 ---
 
